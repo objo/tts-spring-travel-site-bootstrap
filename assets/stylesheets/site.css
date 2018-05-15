@@ -1,0 +1,37 @@
+.container-fluid {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.card {
+  float: left;
+}
+
+/* @media (min-width: 576px) {
+
+  .icon {
+    width: 100%;
+    float: none;
+  }
+
+}
+
+@media (min-width: 992px) {
+
+  .icon {
+    width: 30%;
+    float: left;
+  }
+
+} */
+
+
+.jumbotron h1 {
+  text-align: center;
+  font-family: 'Alfa Slab One', cursive;
+}
+
+
+.clearfix {
+  clear: both;
+}
